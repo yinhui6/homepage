@@ -23,12 +23,12 @@ Research Interests
 Selected Publications
 ======
 
-Accepted:
+**Accepted:**
 
 [**Global–Local Feature Fusion Network for Visible–Infrared Vehicle Detection**](https://ieeexplore.ieee.org/abstract/document/10476333)    
 
 
-Under Review:
+**Under Review:**
 
 
 [**Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging**](https://arxiv.org/pdf/2406.00449)    
