@@ -14,10 +14,9 @@ Before that, I obtained my B.S from [Wuhan University of Technology](http://engl
 Research Interests
 ======
 
+● Continual Learning, Object Detection, Video instance segmentation
+
 ● Language Multi-modal Model, Large Language Model
-
-● Continual Learning, Object Detection, Video instance segmentation,
-
 
 
 Selected Publications
