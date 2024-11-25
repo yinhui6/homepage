@@ -26,7 +26,7 @@ Selected Publications
 **Accepted:**
 
 [**Global–Local Feature Fusion Network for Visible–Infrared Vehicle Detection**](https://ieeexplore.ieee.org/abstract/document/10476333)    
-Xudong Kang, **Hui Yin**, Puhong Duan
+Xudong Kang, **Hui Yin**, Puhong Duan       
 IEEE Geoscience and Remote Sensing Letters, 2024
 
 **Under Review:**
