@@ -11,9 +11,9 @@ title                    : "Hui Yin @ HNU"
 title_separator          : "-"
 name                     : &name "Hui Yin"
 description              : &description "personal description"
-url                      : https://huiyin53.github.io/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yinhui6.github.io/homepage/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/yinhui6/huiyin53.github.io"
+repository               : "https://yinhui6.github.io/homepage/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hui Yin"
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Master of Electronic information, Hunan University"
   location         : "Hunan University, CN"
   employer         :
