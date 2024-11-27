@@ -28,7 +28,6 @@ Selected Publications
 Xudong Kang, **Hui Yin**, Puhong Duan       
 IEEE Geoscience and Remote Sensing Letters, 2024
 
-**Under Review:**
 
 
 **Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging**    
