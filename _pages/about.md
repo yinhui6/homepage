@@ -34,7 +34,13 @@ IEEE Geoscience and Remote Sensing Letters, 2024
 Jiahua Dong\*, **Hui Yin**\*, Hongliu Li, Wenbo Li, Yulun Zhang, Salman Khan, Fahad Shahbaz Khan   
 Arxiv 2024
 
+<div align=center>
+<img src="../images/model2.png" width = "350" height = "300" alt="">
+</div>
 
+<div align=center>
+<img src="../images/model1.png" width = "350" height = "300" alt="">
+</div>
 
 
 
