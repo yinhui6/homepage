@@ -38,6 +38,8 @@ Arxiv 2024
 <img src="../images/model2.png" width = "350" height = "300" alt="">
 </div>
 
+**Dual Visual Prompt for Continual Video Instance Segmentation**
+
 <div align=center>
 <img src="../images/model1.png" width = "350" height = "300" alt="">
 </div>
