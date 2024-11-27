@@ -31,13 +31,11 @@ IEEE Geoscience and Remote Sensing Letters, 2024
 **Under Review:**
 
 
-[**Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging**](https://arxiv.org/pdf/2406.00449)    
+**Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging**    
 Jiahua Dong\*, **Hui Yin**\*, Hongliu Li, Wenbo Li, Yulun Zhang, Salman Khan, Fahad Shahbaz Khan   
 Arxiv 2024
 
 
-**Dual Visual Prompt for Continual Video Instance Segmentation**   
-Jiahua Dong\*, **Hui Yin**\*, Wenqi Liang, Hanbin Zhao, Henghui Ding, Nicu Sebe, Salman Khan, Fahad Shahbaz Khan   
 
 
 
